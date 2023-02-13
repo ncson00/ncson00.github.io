@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Cong, a junior data scientist 👨‍💻 2-year experience joining data industry 🚀
+### <div align="center">
+  I'm Cong, a junior data scientist 👨‍💻 2-year experience joining data industry 🚀
 </div>  
   
 
